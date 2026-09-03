@@ -1,4 +1,4 @@
-name: CODEOWNERS Guard smoke test
+name: CODEOWNERS Guard integration test
 
 on:
   push:

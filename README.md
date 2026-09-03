@@ -1,3 +1,3 @@
-# CODEOWNERS Guard Smoke Test
+# CODEOWNERS Guard Integration
 
-Private integration fixture for testing the published CODEOWNERS Guard action from an independent repository.
+Public integration fixture that exercises the released [CODEOWNERS Guard](https://github.com/rarepops/codeowners-guard) Action from an independent repository.
